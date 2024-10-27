@@ -3,16 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Bootstrap Site</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css"> <!-- Adjust the path if needed -->
-    <link rel="stylesheet" href="css/styles.css"> <!-- Your custom CSS file if you have one -->
+    <title>Your Page Title</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to My Bootstrap Site</h1>
-        <p>This is a simple webpage created using Bootstrap.</p>
-        <img src="path/to/your/image.jpg" alt="Sample Image"> <!-- Add an image -->
-    </div>
-    <script src="js/bootstrap.bundle.min.js"></script> <!-- Include Bootstrap JS -->
+    <h1>Hello, World!</h1>
+    <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
